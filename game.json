@@ -1,0 +1,71 @@
+{
+	"version": {},
+	"heroes": {
+		"dark": {
+			"-1768012207": "Balog The Barbarian",
+			"727590318": "Dagrund Blacksmoke",
+			"407711194": "Ella Ametryst",
+			"-808998949": "Kobal The Pestilent",
+			"-1139912712": "Life Reaper Brom",
+			"644718529": "Lord Zomm",
+			"1376441465": "Overlord Executum",
+			"1910058288": "Pontifex Mortis",
+			"11567621": "Shadowblade",
+			"1632696247": "Malice",
+		},
+		"fire": {
+			"292529307": "Abigail The Brutal",
+			"225856369": "Ignus The Mad",
+			"-440987582": "Lady Nimriel",
+			"-1829050920": "Lupina",
+			"1204688961": "Mangle Jaw",
+			"-2008240598": "Nitpick",
+			"-132468936": "Pignius Maximus",
+			"1738574243": "Rogar Stonecrusher",
+			"1405170496": "Squinch",
+			"29312499": "Torchy",
+			"2006213019": "Ember Sanguine",
+			"-1131176359": "The Furnace"
+		},
+		"light": {
+			"1700882632": "Alexandros",
+			"1875399791": "Archangel Emily",
+			"2046695777": "Black Diamond",
+			"1055400482": "Dhaegon Stonecrusher",
+			"-1440055088": "Ekko",
+			"1314549089": "Masuta Kira",
+			"-1506271072": "Sifu Jianzhi",
+			"-1880078095": "Aria",
+			"-1259216978": "Leonidus"
+		},
+		"nature": {
+			"693880351": "Bovus El Doro",
+			"1678341830": "Chief NubNub",
+			"-433855633": "Cruel King Bramble",
+			"1723216075": "Jabber Clenchjaw",
+			"503317874": "Julius",
+			"-388209085": "Phemus",
+			"-546337235": "Phenol Thoxian",
+			"656172560": "Rocky The Shiitake",
+			"376760954": "Tsume",
+			"-1035326920": "Willow Swift",
+			"158808375": "Zurk",
+			"361143924": "Hansuke Undying"
+		},
+		"water": {
+			"-2005286648": "Igorok",
+			"104995461": "Indigo",
+			"-1422669608": "King Yorick",
+			"1674063561": "Samurai Takumi",
+			"556835503": "Selwyn The Enduring",
+			"219002264": "Sir William",
+			"-336075207": "Therand Fiddlestrom",
+			"1592184961": "Stone Fist",
+			"-236392297": "Yasmin Bloom",
+			"785503745": "Yokozuna",
+			"-2126385695": "Icepick",
+			"1887346770": "Kai Makani",
+			"-1771159123": "Icebloom"
+		}
+	}
+}
